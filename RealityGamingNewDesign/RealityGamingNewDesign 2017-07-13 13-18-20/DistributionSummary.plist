@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RealityGamingNewDesign.ipa</key>
+	<array>
+		<dict>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1690C5B85F447CD31FD1261C3ECF3CF1C8C6CCE4</string>
+				<key>dateExpires</key>
+				<string>01/05/2018</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1690C5B85F447CD31FD1261C3ECF3CF1C8C6CCE4</string>
+						<key>dateExpires</key>
+						<string>01/05/2018</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CPT8Y45J58</string>
+						<key>name</key>
+						<string>Mathieu Vigne</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1690C5B85F447CD31FD1261C3ECF3CF1C8C6CCE4</string>
+						<key>dateExpires</key>
+						<string>01/05/2018</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>LGButton.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CPT8Y45J58</string>
+						<key>name</key>
+						<string>Mathieu Vigne</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1690C5B85F447CD31FD1261C3ECF3CF1C8C6CCE4</string>
+						<key>dateExpires</key>
+						<string>01/05/2018</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SCLAlertView.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CPT8Y45J58</string>
+						<key>name</key>
+						<string>Mathieu Vigne</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1690C5B85F447CD31FD1261C3ECF3CF1C8C6CCE4</string>
+						<key>dateExpires</key>
+						<string>01/05/2018</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SideMenu.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CPT8Y45J58</string>
+						<key>name</key>
+						<string>Mathieu Vigne</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1690C5B85F447CD31FD1261C3ECF3CF1C8C6CCE4</string>
+						<key>dateExpires</key>
+						<string>01/05/2018</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftIconFont.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CPT8Y45J58</string>
+						<key>name</key>
+						<string>Mathieu Vigne</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>CPT8Y45J58.com.marent.RealityGamingNewDesign</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>CPT8Y45J58</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>CPT8Y45J58.com.marent.RealityGamingNewDesign</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>RealityGamingNewDesign.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>20f81216-ba92-40eb-b75e-1da14dda63b4</string>
+				<key>name</key>
+				<string>RGV2</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>CPT8Y45J58</string>
+				<key>name</key>
+				<string>Mathieu Vigne</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

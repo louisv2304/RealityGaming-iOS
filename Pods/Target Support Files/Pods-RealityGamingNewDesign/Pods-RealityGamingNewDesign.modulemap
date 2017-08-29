@@ -1,0 +1,6 @@
+framework module Pods_RealityGamingNewDesign {
+  umbrella header "Pods-RealityGamingNewDesign-umbrella.h"
+
+  export *
+  module * { export * }
+}
